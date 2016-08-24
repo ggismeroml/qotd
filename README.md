@@ -1,2 +1,2 @@
 # Quote of the Day
-Grails in Action example application
+Grails in Action example program
